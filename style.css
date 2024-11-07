@@ -1,38 +1,9 @@
-/* thead{
-    color: #0a0;
-    background-color: #eee;
-}
-
-tbody{
-    color: #00f;
-}
-
-tfoot{
-    color: #f00;
-    text-align: center;
-}
-
-table, th, td{
-    border: 1px solid #000;
-}
-table{
-    border-collapse: collapse;
-}
-
-.especial{
-    border: 2px solid #f00;
-}
-
-.teste{
-    border: 2px solid #f00;
-} */
-
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 table{
-    width: 80%;
+    width: 50%;
     margin: auto;
     border-collapse: collapse;
     background-color: antiquewhite;
