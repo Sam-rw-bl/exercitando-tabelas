@@ -1,28 +1,27 @@
-thead{
-    color: #0a0;
-    background-color: #eee;
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-tbody{
-    color: #00f;
+table{
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+    background-color: antiquewhite;
+}
+
+th{
+    border: 2px solid black;
+    background-color: cadetblue;
+    padding: 16px;
+}
+
+td{
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px;
 }
 
 tfoot{
-    color: #f00;
-    text-align: center;
-}
-
-table, th, td{
-    border: 1px solid #000;
-}
-table{
-    border-collapse: collapse;
-}
-
-.especial{
-    border: 2px solid #f00;
-}
-
-.teste{
-    border: 2px solid #f00;
+    background-color: brown;
+    color: white;
 }
